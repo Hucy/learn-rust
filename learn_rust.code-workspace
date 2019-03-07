@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "projects/hello_world"
+		},
+    {
+      "path": "projects/guessing_game"
+    }
+	],
+	"settings": {}
+}
