@@ -3,9 +3,12 @@
 		{
 			"path": "projects/hello_world"
 		},
-    {
-      "path": "projects/guessing_game"
-    }
+		{
+			"path": "projects/guessing_game"
+		},
+		{
+			"path": "projects/variables"
+		}
 	],
 	"settings": {}
 }
