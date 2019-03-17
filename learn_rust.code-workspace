@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "projects/variables"
+		},
+		{
+			"path": "projects/data_type"
 		}
 	],
 	"settings": {}
