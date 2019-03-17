@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "projects/data_type"
+		},
+		{
+			"path": "projects/function"
 		}
 	],
 	"settings": {}
