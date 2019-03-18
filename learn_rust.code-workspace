@@ -14,7 +14,10 @@
 		},
 		{
 			"path": "projects/function"
-		}
+		},
+		{
+			"path": "projects/control_flow"
+    }
 	],
 	"settings": {}
 }
