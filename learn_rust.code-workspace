@@ -20,6 +20,9 @@
 		},
 		{
 			"path": "projects/ownership"
+		},
+		{
+			"path": "projects/references_borrowing"
 		}
 	],
 	"settings": {}
