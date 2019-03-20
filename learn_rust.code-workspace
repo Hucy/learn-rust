@@ -23,6 +23,9 @@
 		},
 		{
 			"path": "projects/references_borrowing"
+		},
+		{
+			"path": "projects/slice"
 		}
 	],
 	"settings": {}
