@@ -17,7 +17,10 @@
 		},
 		{
 			"path": "projects/control_flow"
-    }
+		},
+		{
+			"path": "projects/ownership"
+		}
 	],
 	"settings": {}
 }
