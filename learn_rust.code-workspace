@@ -26,6 +26,9 @@
 		},
 		{
 			"path": "projects/slice"
+		},
+		{
+			"path": "projects/structs"
 		}
 	],
 	"settings": {}
