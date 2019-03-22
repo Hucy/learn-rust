@@ -29,6 +29,9 @@
 		},
 		{
 			"path": "projects/structs"
+		},
+    {
+			"path": "projects/rectangles"
 		}
 	],
 	"settings": {}
