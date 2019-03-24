@@ -32,6 +32,9 @@
 		},
     {
 			"path": "projects/rectangles"
+		},
+    {
+			"path": "projects/enums"
 		}
 	],
 	"settings": {}
