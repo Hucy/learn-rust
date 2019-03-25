@@ -35,6 +35,9 @@
 		},
     {
 			"path": "projects/enums"
+		},
+     {
+			"path": "projects/match_control"
 		}
 	],
 	"settings": {}
