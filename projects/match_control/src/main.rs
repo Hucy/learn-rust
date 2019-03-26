@@ -55,5 +55,20 @@ fn main() {
 
     let coin = Coin::Penny;
     value_in_cents(coin);
+
+    let some_u8_value = Some(0u8);
+    if let Some(3) =  some_u8_value {
+        println!("three");
+    }
+
+    let coin = Coin::Penny;
+    let mut _count = 0;
+
+    if let Coin::Quarter(state) = coin {
+        println!("State quarter from {:?}!", state);
+    } else {
+        _count += 1;
+    }
+
 } 
  
