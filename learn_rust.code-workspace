@@ -36,9 +36,13 @@
     {
 			"path": "projects/enums"
 		},
-     {
+    {
 			"path": "projects/match_control"
+		},
+    {
+		  "path": "projects/vector_collection"
 		}
+
 	],
 	"settings": {}
 }
