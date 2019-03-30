@@ -41,8 +41,10 @@
 		},
     {
 		  "path": "projects/vector_collection"
+		},
+    {
+		  "path": "projects/string_collection"
 		}
-
 	],
 	"settings": {}
 }
