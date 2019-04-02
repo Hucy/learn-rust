@@ -47,7 +47,11 @@
 		},
     {
 		  "path": "projects/hash_map"
+		},
+    {
+		  "path": "projects/error_handling"
 		}
+
 	],
 	"settings": {}
 }
