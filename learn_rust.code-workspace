@@ -50,8 +50,10 @@
 		},
     {
 		  "path": "projects/error_handling"
+		},
+     {
+		  "path": "projects/generics"
 		}
-
 	],
 	"settings": {}
 }
