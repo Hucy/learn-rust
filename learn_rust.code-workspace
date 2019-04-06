@@ -51,8 +51,11 @@
     {
 		  "path": "projects/error_handling"
 		},
-     {
+    {
 		  "path": "projects/generics"
+		},
+    {
+		  "path": "projects/traits"
 		}
 	],
 	"settings": {}
