@@ -59,6 +59,9 @@
 		},
     {
 		  "path": "projects/lifetime"
+		},
+    {
+		  "path": "projects/tests"
 		}
 	],
 	"settings": {}
