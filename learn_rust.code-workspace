@@ -64,7 +64,7 @@
 		  "path": "projects/tests"
 		},
      {
-		  "path": "projects/minigrep"
+		  "path": "projects/closures"
 		}
 	],
 	"settings": {}
