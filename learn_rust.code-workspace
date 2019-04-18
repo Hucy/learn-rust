@@ -65,7 +65,11 @@
 		},
      {
 		  "path": "projects/closures"
+		 },
+     {
+		  "path": "projects/iterators"
 		}
+
 	],
 	"settings": {}
 }
