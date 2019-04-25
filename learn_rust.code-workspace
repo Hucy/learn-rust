@@ -71,6 +71,9 @@
 		 },
      {
 		  "path": "projects/boxes"
+		 },
+     {
+		  "path": "projects/drop"
 		}
 	],
 	"settings": {}
