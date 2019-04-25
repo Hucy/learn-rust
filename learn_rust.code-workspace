@@ -68,8 +68,10 @@
 		 },
      {
 		  "path": "projects/iterators"
+		 },
+     {
+		  "path": "projects/boxes"
 		}
-
 	],
 	"settings": {}
 }
