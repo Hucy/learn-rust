@@ -74,6 +74,9 @@
 		 },
      {
 		  "path": "projects/drop"
+		 },
+     {
+		  "path": "projects/ref_cell"
 		}
 	],
 	"settings": {}
