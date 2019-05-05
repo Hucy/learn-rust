@@ -83,6 +83,9 @@
 		 },
      {
 		  "path": "projects/threads"
+		 },
+     {
+		  "path": "projects/message_passing"
 		}
 	],
 	"settings": {}
