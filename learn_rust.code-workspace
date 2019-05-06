@@ -86,6 +86,9 @@
 		 },
      {
 		  "path": "projects/message_passing"
+		 },
+     {
+		  "path": "projects/shared_state"
 		}
 	],
 	"settings": {}
