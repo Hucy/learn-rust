@@ -89,6 +89,12 @@
 		 },
      {
 		  "path": "projects/shared_state"
+		 },
+     {
+		     "path": "projects/oop"
+		 },
+     {
+		     "path": "projects/gui"
 		}
 	],
 	"settings": {}
