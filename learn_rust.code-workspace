@@ -95,6 +95,9 @@
 		 },
      {
 		     "path": "projects/gui"
+		 },
+     {
+		     "path": "projects/oo_post"
 		}
 	],
 	"settings": {}
