@@ -98,6 +98,9 @@
 		 },
      {
 		     "path": "projects/oo_post"
+		 },
+     {
+		     "path": "projects/crate_module"
 		}
 	],
 	"settings": {}
