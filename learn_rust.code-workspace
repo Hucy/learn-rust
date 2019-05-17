@@ -101,6 +101,9 @@
 		 },
      {
 		     "path": "projects/crate_module"
+		 },
+     {
+		     "path": "projects/patterns"
 		}
 	],
 	"settings": {}
