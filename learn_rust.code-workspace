@@ -104,6 +104,9 @@
 		 },
      {
 		     "path": "projects/patterns"
+		 },
+     {
+		     "path": "projects/advanced_trait"
 		}
 	],
 	"settings": {}
