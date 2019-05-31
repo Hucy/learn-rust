@@ -30,83 +30,86 @@
 		{
 			"path": "projects/structs"
 		},
-    {
+		{
 			"path": "projects/rectangles"
 		},
-    {
+		{
 			"path": "projects/enums"
 		},
-    {
+		{
 			"path": "projects/match_control"
 		},
-    {
-		  "path": "projects/vector_collection"
+		{
+			"path": "projects/vector_collection"
 		},
-    {
-		  "path": "projects/string_collection"
+		{
+			"path": "projects/string_collection"
 		},
-    {
-		  "path": "projects/hash_map"
+		{
+			"path": "projects/hash_map"
 		},
-    {
-		  "path": "projects/error_handling"
+		{
+			"path": "projects/error_handling"
 		},
-    {
-		  "path": "projects/generics"
+		{
+			"path": "projects/generics"
 		},
-    {
-		  "path": "projects/traits"
+		{
+			"path": "projects/traits"
 		},
-    {
-		  "path": "projects/lifetime"
+		{
+			"path": "projects/lifetime"
 		},
-    {
-		  "path": "projects/tests"
+		{
+			"path": "projects/tests"
 		},
-     {
-		  "path": "projects/closures"
-		 },
-     {
-		  "path": "projects/iterators"
-		 },
-     {
-		  "path": "projects/boxes"
-		 },
-     {
-		  "path": "projects/drop"
-		 },
-     {
-		  "path": "projects/ref_cell"
-		 },
-     {
-		  "path": "projects/ref_weak"
-		 },
-     {
-		  "path": "projects/threads"
-		 },
-     {
-		  "path": "projects/message_passing"
-		 },
-     {
-		  "path": "projects/shared_state"
-		 },
-     {
-		     "path": "projects/oop"
-		 },
-     {
-		     "path": "projects/gui"
-		 },
-     {
-		     "path": "projects/oo_post"
-		 },
-     {
-		     "path": "projects/crate_module"
-		 },
-     {
-		     "path": "projects/patterns"
-		 },
-     {
-		     "path": "projects/advanced_trait"
+		{
+			"path": "projects/closures"
+		},
+		{
+			"path": "projects/iterators"
+		},
+		{
+			"path": "projects/boxes"
+		},
+		{
+			"path": "projects/drop"
+		},
+		{
+			"path": "projects/ref_cell"
+		},
+		{
+			"path": "projects/ref_weak"
+		},
+		{
+			"path": "projects/threads"
+		},
+		{
+			"path": "projects/message_passing"
+		},
+		{
+			"path": "projects/shared_state"
+		},
+		{
+			"path": "projects/oop"
+		},
+		{
+			"path": "projects/gui"
+		},
+		{
+			"path": "projects/oo_post"
+		},
+		{
+			"path": "projects/crate_module"
+		},
+		{
+			"path": "projects/patterns"
+		},
+		{
+			"path": "projects/advanced_trait"
+		},
+		{
+			"path": "projects/define_macro"
 		}
 	],
 	"settings": {}
