@@ -113,6 +113,9 @@
 		},
 		{
 			"path": "projects/hello_web_server"
+		},
+		{
+			"path": "projects/example_collect"
 		}
 	],
 	"settings": {}
